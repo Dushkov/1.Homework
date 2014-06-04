@@ -1,0 +1,11 @@
+<WorkspaceItem ctype="Workspace">
+  <Items>
+    <Item>1.HelloCSharp/1.HelloCSharp.sln</Item>
+    <Item>2.PrintMyName/2.PrintMyName.sln</Item>
+    <Item>3.PrintNumbers/3.PrintNumbers.sln</Item>
+    <Item>4.PrintFirstLastName/4.PrintFirstLastName.sln</Item>
+    <Item>5.SquareRoot/5.SquareRoot.sln</Item>
+    <Item>6.PrintSequence/6.PrintSequence.sln</Item>
+    <Item>7.ReformatCSharpCode/7.ReformatCSharpCode.sln</Item>
+  </Items>
+</WorkspaceItem>

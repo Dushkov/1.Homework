@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.HelloCSharp", "1.HelloCSharp\1.HelloCSharp.csproj", "{A67A4AF6-4A9B-4289-81E9-432C7CF047A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A67A4AF6-4A9B-4289-81E9-432C7CF047A8}.Debug|x86.ActiveCfg = Debug|x86
+		{A67A4AF6-4A9B-4289-81E9-432C7CF047A8}.Debug|x86.Build.0 = Debug|x86
+		{A67A4AF6-4A9B-4289-81E9-432C7CF047A8}.Release|x86.ActiveCfg = Release|x86
+		{A67A4AF6-4A9B-4289-81E9-432C7CF047A8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = 1.HelloCSharp\1.HelloCSharp.csproj
+	EndGlobalSection
+EndGlobal
