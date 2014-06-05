@@ -7,5 +7,6 @@
     <Item>5.SquareRoot/5.SquareRoot.sln</Item>
     <Item>6.PrintSequence/6.PrintSequence.sln</Item>
     <Item>7.ReformatCSharpCode/7.ReformatCSharpCode.sln</Item>
+    <Item>8.CurrentDateTime/8.CurrentDateTime.sln</Item>
   </Items>
 </WorkspaceItem>
